@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\bin\Debug\net6.0\Task02FindDistance.exe
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\bin\Debug\net6.0\Task02FindDistance.deps.json
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\bin\Debug\net6.0\Task02FindDistance.runtimeconfig.json
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\bin\Debug\net6.0\Task02FindDistance.dll
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\bin\Debug\net6.0\Task02FindDistance.pdb
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\Task02FindDistance.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\Task02FindDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\Task02FindDistance.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\Task02FindDistance.AssemblyInfo.cs
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\Task02FindDistance.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\Task02FindDistance.dll
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\refint\Task02FindDistance.dll
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\Task02FindDistance.pdb
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\Task02FindDistance.genruntimeconfig.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task02FindDistance\obj\Debug\net6.0\ref\Task02FindDistance.dll
