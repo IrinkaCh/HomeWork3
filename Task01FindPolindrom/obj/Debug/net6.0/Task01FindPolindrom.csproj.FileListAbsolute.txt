@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\bin\Debug\net6.0\Task01FindPolindrom.exe
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\bin\Debug\net6.0\Task01FindPolindrom.deps.json
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\bin\Debug\net6.0\Task01FindPolindrom.runtimeconfig.json
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\bin\Debug\net6.0\Task01FindPolindrom.dll
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\bin\Debug\net6.0\Task01FindPolindrom.pdb
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\Task01FindPolindrom.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\Task01FindPolindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\Task01FindPolindrom.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\Task01FindPolindrom.AssemblyInfo.cs
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\Task01FindPolindrom.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\Task01FindPolindrom.dll
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\refint\Task01FindPolindrom.dll
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\Task01FindPolindrom.pdb
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\Task01FindPolindrom.genruntimeconfig.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task01FindPolindrom\obj\Debug\net6.0\ref\Task01FindPolindrom.dll
