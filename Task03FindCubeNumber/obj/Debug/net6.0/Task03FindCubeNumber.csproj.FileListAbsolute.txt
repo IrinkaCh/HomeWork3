@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\bin\Debug\net6.0\Task03FindCubeNumber.exe
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\bin\Debug\net6.0\Task03FindCubeNumber.deps.json
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\bin\Debug\net6.0\Task03FindCubeNumber.runtimeconfig.json
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\bin\Debug\net6.0\Task03FindCubeNumber.dll
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\bin\Debug\net6.0\Task03FindCubeNumber.pdb
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\Task03FindCubeNumber.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\Task03FindCubeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\Task03FindCubeNumber.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\Task03FindCubeNumber.AssemblyInfo.cs
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\Task03FindCubeNumber.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\Task03FindCubeNumber.dll
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\refint\Task03FindCubeNumber.dll
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\Task03FindCubeNumber.pdb
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\Task03FindCubeNumber.genruntimeconfig.cache
+C:\Users\123ir\Desktop\HomeWork03\HomeWok003\Task03FindCubeNumber\obj\Debug\net6.0\ref\Task03FindCubeNumber.dll
